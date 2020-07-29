@@ -1,0 +1,22 @@
+body{
+background-color: pink;
+color: black;    
+    font-family: 'Abril Fatface', cursive;
+}    
+a{
+color:blue;    
+}
+h1{
+    font-size:50px;
+color:navy; 
+    font-family: 'Dancing Script', cursive;
+}    
+h6{
+    font-size:90px;
+}    
+img{
+    width:150px;
+}
+td{
+background-color: orange;    
+}
